@@ -6,6 +6,6 @@ YouTube: [@HashTrail](https://www.youtube.com/@HashTrail)
 
 | # | Case | Data | Video |
 |---|---|---|---|
-| 01 | My Polymarket bot won 93% of its bets and still lost money | [polymarket-bot](https://github.com/Hash-Trail/polymarket-bot) | coming soon |
+| 01 | My Polymarket bot won 93% of its bets and still lost money | [polymarket-bot](https://github.com/Hash-Trail/polymarket-bot) | [watch](https://youtu.be/5sYkiIuqMNU) |
 
 *The chain remembers.*
